@@ -14,7 +14,7 @@ backend/advisor.db
 *.cache
 
 # Node
-frontend/node_modules/
+node_modules/
 frontend/dist/
 
 # Env vars
