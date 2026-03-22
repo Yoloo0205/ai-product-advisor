@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(PYTHONIOENCODING=utf-8 python seed.py)",
-      "Bash(.venv/Scripts/pip install:*)"
-    ]
-  }
-}
