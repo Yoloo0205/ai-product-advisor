@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnement virtuel
+backend/.venv/
+
+# Base de données locale
+backend/advisor.db
+
+# Hugging Face cache (modèles IA, très lourds)
+.cache/
+*.cache
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env vars
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
